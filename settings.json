@@ -1,0 +1,8 @@
+{
+    "token": "Put your token here",
+    "welcome": [
+        "hi", "Hi",
+        "hello", "Hello",
+        "How are you"
+    ]
+}
