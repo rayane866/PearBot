@@ -1,8 +1,8 @@
 {
-    "token": "NjU1NzY4Mjc2OTk1MDE0Njc3.XfY65w.aZ6b0Up6sbsIxKzf6MY-fXUhFjA",
-    "server_id": 655767868348301332,
+    "token": "YOUR TOKEN",
+    "server_id": YOUR SERVER ID,
     "cmd_channels":[
-        "bot-commands"
+        "YOUR COMMAND CHANNEL"
     ],
     "welcome": [
         "hi", "hello", "hey"
